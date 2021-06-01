@@ -1,0 +1,2 @@
+# ER-diagram-for-BOOK-Rental-Firm-by-Richard-Barker-s-Notation
+Based information is given below, Create an ER Diagram in Richard Barker s Notation for Book Rental Firm  Book Rental Firm has more than one Book Store.  Each Book Store is allocated many employees that including a supervisor.  The supervisor managed day a day at a given Book store  The Book store has many copies of books in stock  The Book has data of author, status, category ID, Book ID;  Before renting the book, the customer must be registered at the local Book Store to become a membership.
